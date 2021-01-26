@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a student at DCI - Digital Career Institute - on my journey to become a fullstack web developer
+I'm a student at DCI (Digital Career Institute) on my journey to become a full stack web developer
 
 ## learn more about me
 
