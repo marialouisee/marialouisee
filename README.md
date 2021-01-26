@@ -4,8 +4,8 @@ I'm a student at DCI - Digital Career Institute - on my journey to become a full
 
 ## learn more about me
 
-```javascript
-const thai = {
+```
+#HelloWorld {
   pronouns: "they" | "them" / "she" | "her",
   code: [HTML, CSS, ...more to come]
   tools: [...soon]
